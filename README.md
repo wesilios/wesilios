@@ -1,6 +1,6 @@
-# Hello there 👋 Que's here (wesilios)
+# Hello there 👋 Que `(wesilios)` is here 
 
-** 🏢 Based in Ho Chi Minh City, Vietnam**  
+**🏢 Based in Ho Chi Minh City, Vietnam**  
 
 💥**Solution Architect / DevSecOps / Product Owner** | .NET, CPP, React, Next, SQL, Lua
 
@@ -30,11 +30,11 @@ Lately, I’ve been exploring **Data Science** and **AI model development**, aim
 
 ## Open Source Highlights  
 
-- [CleanArchitecture](https://github.com/wesilios/CleanArchitecture)
+- [clean-architecture-template](https://github.com/wesilios/CleanArchitecture)
 A solution template for ASP.NET Core following Clean Architecture principles — designed for scalability, maintainability, and clear separation of concerns.
 - [netcore-toolkit](https://github.com/wesilios/netcore-toolkit)
 A reusable .NET Core toolkit that includes core libraries, validation logic, and shared interfaces for rapid application development.
-- [Dapper.SpecificationExtension](https://github.com/wesilios/Dapper.SpecificationExtension)
+- [dapper-specification.extension](https://github.com/wesilios/Dapper.SpecificationExtension)
 Extensions for Dapper to support the **Specification Pattern**, enabling expressive query definitions across different databases.
 - [cardio](https://github.com/wesilios/cardio)
 A personal learning project exploring classic and modern algorithms and data structures, implemented from scratch in multiple languages.
